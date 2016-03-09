@@ -1,0 +1,1084 @@
+Ttry2
+v7
+r0
+t332068256.943984
+cCheck dependencies
+cCpResource build/Debug-iphoneos/try2.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/Info.plist try2-Info.plist
+cCompileXIB /Users/x/Documents/client-iphone/FlipsideView.xib
+cCompileXIB /Users/x/Documents/client-iphone/MainView.xib
+cCompileXIB /Users/x/Documents/client-iphone/MainWindow.xib
+cCopyPNGFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/Default.png Images/Default.png
+cCompileXIB /Users/x/Documents/client-iphone/EditView.xib
+cCpResource build/Debug-iphoneos/try2.app/ft3.jpg Images/ft3.jpg
+cCopyPNGFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/griddything@2x.png Images/griddything@2x.png
+cCopyPNGFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/PlayButtonHoverState@2x.png Images/PlayButtonHoverState@2x.png
+cCopyPNGFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/PlayButtonRegularState@2x.png Images/PlayButtonRegularState@2x.png
+cCopyPNGFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/FasfForwardHoverState@2x.png Images/FasfForwardHoverState@2x.png
+cCopyPNGFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/FasfForwardRegularState@2x.png Images/FasfForwardRegularState@2x.png
+cCopyPNGFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/PauseButtonHoverState@2x.png Images/PauseButtonHoverState@2x.png
+cCopyPNGFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/PauseButtonRegularState@2x.png Images/PauseButtonRegularState@2x.png
+cCopyPNGFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/RewindHoverState@2x.png Images/RewindHoverState@2x.png
+cCopyPNGFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/RewindRegularState@2x.png Images/RewindRegularState@2x.png
+cCopyPNGFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/griddything.png Images/griddything.png
+cCompileXIB /Users/x/Documents/client-iphone/HelpView.xib
+cProcessPCH /var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-ejnvbshgdrbhcebptcjeilhjcftp/try2_Prefix.pch.gch try2_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-hfyayzqnbfpzsocjbwtwccpnzdgx/try2_Prefix.pch.gch try2_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/main.o /Users/x/Documents/client-iphone/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/try2AppDelegate.o /Users/x/Documents/client-iphone/Classes/try2AppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/MainViewController.o /Users/x/Documents/client-iphone/Classes/MainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/FlipsideViewController.o /Users/x/Documents/client-iphone/Classes/FlipsideViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/DataController.o /Users/x/Documents/client-iphone/Classes/DataController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/EditViewController.o /Users/x/Documents/client-iphone/Classes/EditViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/MyNetwork.o /Users/x/Documents/client-iphone/Classes/MyNetwork.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/HelpViewController.o /Users/x/Documents/client-iphone/Classes/HelpViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/main.o /Users/x/Documents/client-iphone/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/try2AppDelegate.o /Users/x/Documents/client-iphone/Classes/try2AppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/MainViewController.o /Users/x/Documents/client-iphone/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/FlipsideViewController.o /Users/x/Documents/client-iphone/Classes/FlipsideViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/DataController.o /Users/x/Documents/client-iphone/Classes/DataController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/try2 normal armv6
+cCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/EditViewController.o /Users/x/Documents/client-iphone/Classes/EditViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/MyNetwork.o /Users/x/Documents/client-iphone/Classes/MyNetwork.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/HelpViewController.o /Users/x/Documents/client-iphone/Classes/HelpViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/try2 normal armv7
+cCreateUniversalBinary /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/try2 normal "armv6 armv7"
+cGenerateDSYMFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app.dSYM /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/try2
+cProcessProductPackaging "/Users/x/Library/MobileDevice/Provisioning Profiles/40FDBDCF-10E6-45FF-AB7F-912ECCFF17B9.mobileprovision" /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/embedded.mobileprovision
+cTouch /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2.xcent
+cCodeSign /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/Users/x/Documents/client-iphone/Classes/DataController.h
+c000000004E1AB91D0000000000000271
+t1310374173
+s625
+i<UIKit/UIKit.h>
+
+N/Users/x/Documents/client-iphone/Classes/DataController.m
+c000000004E1AB91D00000000000009F1
+t1310374173
+s2545
+i"DataController.h"
+
+N/Users/x/Documents/client-iphone/Classes/EditViewController.h
+c000000004E1AB91D000000000000032A
+t1310374173
+s810
+i<UIKit/UIKit.h>
+
+N/Users/x/Documents/client-iphone/Classes/EditViewController.m
+c000000004E1AB91D0000000000000732
+t1310374173
+s1842
+i"EditViewController.h"
+
+N/Users/x/Documents/client-iphone/Classes/FlipsideViewController.h
+c000000004E1AB91D00000000000007F5
+t1310374173
+s2037
+i<UIKit/UIKit.h>
+
+N/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m
+c000000004E1AB91D000000000000327E
+t1310374173
+s12926
+i"GlobalDefines.h"
+i"FlipsideViewController.h"
+i"MyNetwork.h"
+
+N/Users/x/Documents/client-iphone/Classes/GlobalDefines.h
+c000000004E1AB91D00000000000000D6
+t1310374173
+s214
+
+N/Users/x/Documents/client-iphone/Classes/HelpViewController.h
+c000000004E1AB91D0000000000000221
+t1310374173
+s545
+i<UIKit/UIKit.h>
+
+N/Users/x/Documents/client-iphone/Classes/HelpViewController.m
+c000000004E1AB91D0000000000000694
+t1310374173
+s1684
+i"HelpViewController.h"
+
+N/Users/x/Documents/client-iphone/Classes/MainViewController.h
+c000000004E1AB91D00000000000005AE
+t1310374173
+s1454
+i"FlipsideViewController.h"
+i"EditViewController.h"
+i"HelpViewController.h"
+i<UIKit/UIKit.h>
+
+N/Users/x/Documents/client-iphone/Classes/MainViewController.m
+c000000004E1AB91D0000000000003839
+t1310374173
+s14393
+i"MainViewController.h"
+i"DataController.h"
+
+N/Users/x/Documents/client-iphone/Classes/MyNetwork.h
+c000000004E1AB91D0000000000000515
+t1310374173
+s1301
+i<Foundation/Foundation.h>
+
+N/Users/x/Documents/client-iphone/Classes/MyNetwork.m
+c000000004E1AB91D000000000000345E
+t1310374173
+s13406
+i"MyNetwork.h"
+
+N/Users/x/Documents/client-iphone/Classes/try2AppDelegate.h
+c000000004E1AB91D000000000000020C
+t1310374173
+s524
+i<UIKit/UIKit.h>
+
+N/Users/x/Documents/client-iphone/Classes/try2AppDelegate.m
+c000000004E1AB91D0000000000000CFD
+t1310374173
+s3325
+i"try2AppDelegate.h"
+i"MainViewController.h"
+
+N/Users/x/Documents/client-iphone/EditView.xib
+c000000004E1AB9200000000000008831
+t1310374176
+s34865
+
+N/Users/x/Documents/client-iphone/FlipsideView.xib
+c000000004E1AB9200000000000010FD0
+t1310374176
+s69584
+
+N/Users/x/Documents/client-iphone/HelpView.xib
+c000000004E1AB92000000000000069C4
+t1310374176
+s27076
+
+N/Users/x/Documents/client-iphone/Images/Default.png
+c000000004E1AB9200000000000003258
+t1310374176
+s12888
+
+N/Users/x/Documents/client-iphone/Images/FasfForwardHoverState@2x.png
+c000000004E1AB9200000000000003C04
+t1310374176
+s15364
+
+N/Users/x/Documents/client-iphone/Images/FasfForwardRegularState@2x.png
+c000000004E1AB9200000000000001E8D
+t1310374176
+s7821
+
+N/Users/x/Documents/client-iphone/Images/PauseButtonHoverState@2x.png
+c000000004E1AB9200000000000003EBB
+t1310374176
+s16059
+
+N/Users/x/Documents/client-iphone/Images/PauseButtonRegularState@2x.png
+c000000004E1AB9200000000000001507
+t1310374176
+s5383
+
+N/Users/x/Documents/client-iphone/Images/PlayButtonHoverState@2x.png
+c000000004E1AB9200000000000004559
+t1310374176
+s17753
+
+N/Users/x/Documents/client-iphone/Images/PlayButtonRegularState@2x.png
+c000000004E1AB9200000000000001BD2
+t1310374176
+s7122
+
+N/Users/x/Documents/client-iphone/Images/RewindHoverState@2x.png
+c000000004E1AB920000000000000384E
+t1310374176
+s14414
+
+N/Users/x/Documents/client-iphone/Images/RewindRegularState@2x.png
+c000000004E1AB920000000000000188A
+t1310374176
+s6282
+
+N/Users/x/Documents/client-iphone/Images/ft3.jpg
+c000000004E1AB92000000000000006CD
+t1310374176
+s1741
+
+N/Users/x/Documents/client-iphone/Images/griddything.png
+c000000004E1AB9200000000000031318
+t1310374176
+s201496
+
+N/Users/x/Documents/client-iphone/Images/griddything@2x.png
+c000000004E1AB9200000000000031318
+t1310374176
+s201496
+
+N/Users/x/Documents/client-iphone/MainView.xib
+c000000004E1AB920000000000000A5DC
+t1310374176
+s42460
+
+N/Users/x/Documents/client-iphone/MainWindow.xib
+c000000004E1AB92000000000000062B7
+t1310374176
+s25271
+
+N/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app
+t1310375456
+s884
+
+N/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app.dSYM
+t1310375456
+s102
+
+N/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/Default.png
+t1310375452
+s4578
+
+N/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/EditView.nib
+t1310375452
+s3010
+
+N/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/FasfForwardHoverState@2x.png
+t1310375453
+s15495
+
+N/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/FasfForwardRegularState@2x.png
+t1310375453
+s8484
+
+N/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/FlipsideView.nib
+t1310375452
+s6360
+
+N/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/HelpView.nib
+t1310375453
+s2056
+
+N/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/Info.plist
+t1310375451
+s796
+
+N/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/MainView.nib
+t1310375452
+s4080
+
+N/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/MainWindow.nib
+t1310375452
+s1146
+
+N/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/PauseButtonHoverState@2x.png
+t1310375453
+s16008
+
+N/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/PauseButtonRegularState@2x.png
+t1310375453
+s5919
+
+N/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/PkgInfo
+t1310375451
+s8
+
+N/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/PlayButtonHoverState@2x.png
+t1310375453
+s16909
+
+N/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/PlayButtonRegularState@2x.png
+t1310375453
+s7253
+
+N/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/ResourceRules.plist
+t1310375451
+s485
+
+N/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/RewindHoverState@2x.png
+t1310375453
+s14263
+
+N/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/RewindRegularState@2x.png
+t1310375453
+s6653
+
+N/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/embedded.mobileprovision
+t1310375456
+s7353
+
+N/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/ft3.jpg
+t1310375452
+s1741
+
+N/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/griddything.png
+t1310375454
+s211231
+
+N/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/griddything@2x.png
+t1310375454
+s211231
+
+N/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/try2
+t1310375456
+s167376
+
+N/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/DataController.o
+t1310375456
+s15688
+
+N/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/EditViewController.o
+t1310375456
+s45244
+
+N/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/FlipsideViewController.o
+t1310375456
+s74664
+
+N/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/HelpViewController.o
+t1310375456
+s41936
+
+N/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/MainViewController.o
+t1310375456
+s77844
+
+N/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/MyNetwork.o
+t1310375456
+s32804
+
+N/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/main.o
+t1310375456
+s6436
+
+N/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/try2
+t1310375456
+s82192
+
+N/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/try2.LinkFileList
+c000000004E1ABE1B0000000000000396
+t1310375451
+s918
+
+N/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/try2AppDelegate.o
+t1310375456
+s54700
+
+N/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/DataController.o
+t1310375456
+s15448
+
+N/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/EditViewController.o
+t1310375456
+s45072
+
+N/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/FlipsideViewController.o
+t1310375456
+s73240
+
+N/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/HelpViewController.o
+t1310375456
+s41860
+
+N/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/MainViewController.o
+t1310375456
+s77196
+
+N/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/MyNetwork.o
+t1310375456
+s30692
+
+N/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/main.o
+t1310375456
+s6420
+
+N/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/try2
+t1310375456
+s77264
+
+N/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/try2.LinkFileList
+c000000004E1ABE1B0000000000000396
+t1310375451
+s918
+
+N/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/try2AppDelegate.o
+t1310375456
+s54532
+
+N/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2.xcent
+t1310375456
+s414
+
+N/Users/x/Documents/client-iphone/main.m
+c000000004E1AB9200000000000000155
+t1310374176
+s341
+i<UIKit/UIKit.h>
+
+N/Users/x/Documents/client-iphone/try2_Prefix.pch
+c000000004E1AB920000000000000013A
+t1310374176
+s314
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/x/Library/MobileDevice/Provisioning Profiles/40FDBDCF-10E6-45FF-AB7F-912ECCFF17B9.mobileprovision
+c000000004E181B800000000000001CB9
+t1310202752
+s7353
+
+N/var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-ejnvbshgdrbhcebptcjeilhjcftp/try2_Prefix.pch.gch
+t1310375455
+s9983704
+
+N/var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-hfyayzqnbfpzsocjbwtwccpnzdgx/try2_Prefix.pch.gch
+t1310375455
+s10446552
+
+Ntry2-Info.plist
+c000000004E1AB92000000000000003B4
+t1310374176
+s948
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332068251#332068251#0(0"0(0#1#0"8603951744#0"0#
+
+CCodeSign /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app
+s332068256.728316
+e332068256.943907
+r1
+xCodeSign
+x/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app
+lSLF07#2@38"CodeSign build/Debug-iphoneos/try2.app332068256#332068256#0(0"0(0#0#62"/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app8603623264#611"    cd /Users/x/Documents/client-iphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Benjamin Morse (FJTELTHG27)" --resource-rules=/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/ResourceRules.plist --entitlements /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2.xcent /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app0#
+
+CCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/DataController.o /Users/x/Documents/client-iphone/Classes/DataController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332068256.091042
+e332068256.219381
+r1
+xCompileC
+xbuild/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/DataController.o
+x/Users/x/Documents/client-iphone/Classes/DataController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/x/Documents/client-iphone/Classes/DataController.m332068256#332068256#0(0"0(0#0#57"/Users/x/Documents/client-iphone/Classes/DataController.m8606398976#1689"    cd /Users/x/Documents/client-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-generated-files.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-own-target-headers.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-all-target-headers.hmap -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-project-headers.hmap -F/Users/x/Documents/client-iphone/build/Debug-iphoneos -F/Users/x/Documents/client-iphone/../../../Library/Frameworks -I/Users/x/Documents/client-iphone/build/Debug-iphoneos/include -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources/armv6 -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources -include /var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-ejnvbshgdrbhcebptcjeilhjcftp/try2_Prefix.pch -c /Users/x/Documents/client-iphone/Classes/DataController.m -o /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/DataController.o0#
+
+CCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/EditViewController.o /Users/x/Documents/client-iphone/Classes/EditViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332068256.092917
+e332068256.249978
+r1
+xCompileC
+xbuild/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/EditViewController.o
+x/Users/x/Documents/client-iphone/Classes/EditViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/x/Documents/client-iphone/Classes/EditViewController.m332068256#332068256#0(0"0(0#0#61"/Users/x/Documents/client-iphone/Classes/EditViewController.m8606212896#1697"    cd /Users/x/Documents/client-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-generated-files.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-own-target-headers.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-all-target-headers.hmap -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-project-headers.hmap -F/Users/x/Documents/client-iphone/build/Debug-iphoneos -F/Users/x/Documents/client-iphone/../../../Library/Frameworks -I/Users/x/Documents/client-iphone/build/Debug-iphoneos/include -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources/armv6 -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources -include /var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-ejnvbshgdrbhcebptcjeilhjcftp/try2_Prefix.pch -c /Users/x/Documents/client-iphone/Classes/EditViewController.m -o /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/EditViewController.o0#
+
+CCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/FlipsideViewController.o /Users/x/Documents/client-iphone/Classes/FlipsideViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332068255.560134
+e332068256.092817
+r1
+xCompileC
+xbuild/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/FlipsideViewController.o
+x/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m: In function '-[FlipsideViewController viewDidLoad]':
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:42: warning: 'FlipsideViewController' may not respond to '-fullscreenDisableUIFade'
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:42: warning: (Messages without a matching method signature
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:42: warning: will be assumed to return 'id' and accept
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:42: warning: '...' as arguments.)
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m: In function '-[FlipsideViewController stopBeachballTimed:]':
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:386: warning: control reaches end of non-void function
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m: In function '-[FlipsideViewController stopBeachball]':
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:392: warning: control reaches end of non-void function
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m: In function '-[FlipsideViewController startBeachball]':
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:397: warning: control reaches end of non-void function
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m: In function '-[FlipsideViewController tick]':
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:438: warning: 'MyNetwork' may not respond to '-detectHello'
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:445: warning: 'MyNetwork' may not respond to '-sendHello'
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:511: warning: 'MyNetwork' may not respond to '-sendCommandBytes:param:param2:'
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m: At top level:
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:25: warning: 'intBuffer' defined but not used
+lSLF07#2@73"Compile /Users/x/Documents/client-iphone/Classes/FlipsideViewController.m332068255#332068256#0(2053"/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m: In function '-[FlipsideViewController viewDidLoad]':/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:42: warning: 'FlipsideViewController' may not respond to '-fullscreenDisableUIFade'/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:42: warning: (Messages without a matching method signature/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:42: warning: will be assumed to return 'id' and accept/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:42: warning: '...' as arguments.)/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m: In function '-[FlipsideViewController stopBeachballTimed:]':/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:386: warning: control reaches end of non-void function/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m: In function '-[FlipsideViewController stopBeachball]':/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:392: warning: control reaches end of non-void function/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m: In function '-[FlipsideViewController startBeachball]':/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:397: warning: control reaches end of non-void function/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m: In function '-[FlipsideViewController tick]':/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:438: warning: 'MyNetwork' may not respond to '-detectHello'/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:445: warning: 'MyNetwork' may not respond to '-sendHello'/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:511: warning: 'MyNetwork' may not respond to '-sendCommandBytes:param:param2:'/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m: At top level:/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:25: warning: 'intBuffer' defined but not used10(22@70"'FlipsideViewController' may not respond to '-fullscreenDisableUIFade'332068255#120#150#0(6@65"/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m332066973#42#0#42#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)332068255#270#125#0(6@65"/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m332066973#42#0#42#0#0"0(22@40"Control reaches end of non-void function332068255#744#121#0(6@65"/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m332066973#386#0#386#0#40"control reaches end of non-void function0(22@40"Control reaches end of non-void function332068255#987#121#0(6@65"/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m332066973#392#0#392#0#40"control reaches end of non-void function0(22@40"Control reaches end of non-void function332068255#1231#121#0(6@65"/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m332066973#397#0#397#0#40"control reaches end of non-void function0(22@45"'MyNetwork' may not respond to '-detectHello'332068255#1465#126#0(6@65"/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m332066973#438#0#438#0#26"'*' may not respond to '*'0(22@43"'MyNetwork' may not respond to '-sendHello'332068255#1591#124#0(6@65"/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m332066973#445#0#445#0#26"'*' may not respond to '*'0(22@64"'MyNetwork' may not respond to '-sendCommandBytes:param:param2:'332068255#1715#145#0(6@65"/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m332066973#511#0#511#0#26"'*' may not respond to '*'0(23@13"At top level:332068255#1860#81#0(6@65"/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m332066973#0#0#0#0#0"0(22@32"'intBuffer' defined but not used332068255#1941#112#0(6@65"/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m332066973#25#0#25#0#24"'*' defined but not used0(0#0#65"/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m8604612640#1705"    cd /Users/x/Documents/client-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-generated-files.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-own-target-headers.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-all-target-headers.hmap -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-project-headers.hmap -F/Users/x/Documents/client-iphone/build/Debug-iphoneos -F/Users/x/Documents/client-iphone/../../../Library/Frameworks -I/Users/x/Documents/client-iphone/build/Debug-iphoneos/include -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources/armv6 -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources -include /var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-ejnvbshgdrbhcebptcjeilhjcftp/try2_Prefix.pch -c /Users/x/Documents/client-iphone/Classes/FlipsideViewController.m -o /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/FlipsideViewController.o0#
+
+CCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/HelpViewController.o /Users/x/Documents/client-iphone/Classes/HelpViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332068256.094904
+e332068256.204473
+r1
+xCompileC
+xbuild/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/HelpViewController.o
+x/Users/x/Documents/client-iphone/Classes/HelpViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/x/Documents/client-iphone/Classes/HelpViewController.m332068256#332068256#0(0"0(0#0#61"/Users/x/Documents/client-iphone/Classes/HelpViewController.m8605885920#1697"    cd /Users/x/Documents/client-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-generated-files.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-own-target-headers.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-all-target-headers.hmap -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-project-headers.hmap -F/Users/x/Documents/client-iphone/build/Debug-iphoneos -F/Users/x/Documents/client-iphone/../../../Library/Frameworks -I/Users/x/Documents/client-iphone/build/Debug-iphoneos/include -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources/armv6 -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources -include /var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-ejnvbshgdrbhcebptcjeilhjcftp/try2_Prefix.pch -c /Users/x/Documents/client-iphone/Classes/HelpViewController.m -o /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/HelpViewController.o0#
+
+CCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/MainViewController.o /Users/x/Documents/client-iphone/Classes/MainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332068255.559186
+e332068256.092591
+r1
+xCompileC
+xbuild/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/MainViewController.o
+x/Users/x/Documents/client-iphone/Classes/MainViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m: In function '-[MainViewController showFlipside:]':
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m:58: warning: format not a string literal and no format arguments
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m: In function '-[MainViewController tableView:cellForRowAtIndexPath:]':
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m:148: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m:150: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m:159: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m:164: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m: In function '-[MainViewController tableView:didSelectRowAtIndexPath:]':
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m:273: warning: 'MainViewController' may not respond to '-showEditPageWithEdit:'
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m:273: warning: (Messages without a matching method signature
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m:273: warning: will be assumed to return 'id' and accept
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m:273: warning: '...' as arguments.)
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m:251: warning: unused variable 'alert'
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m: In function '-[MainViewController editViewControllerDidFinish:]':
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m:338: warning: 'DataController' may not respond to '-updatePairInList:data:ip:'
+lSLF07#2@69"Compile /Users/x/Documents/client-iphone/Classes/MainViewController.m332068255#332068256#0(2385"/Users/x/Documents/client-iphone/Classes/MainViewController.m: In function '-[MainViewController showFlipside:]':/Users/x/Documents/client-iphone/Classes/MainViewController.m:58: warning: format not a string literal and no format arguments/Users/x/Documents/client-iphone/Classes/MainViewController.m: In function '-[MainViewController tableView:cellForRowAtIndexPath:]':/Users/x/Documents/client-iphone/Classes/MainViewController.m:148: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)/Users/x/Documents/client-iphone/Classes/MainViewController.m:150: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)/Users/x/Documents/client-iphone/Classes/MainViewController.m:159: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)/Users/x/Documents/client-iphone/Classes/MainViewController.m:164: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)/Users/x/Documents/client-iphone/Classes/MainViewController.m: In function '-[MainViewController tableView:didSelectRowAtIndexPath:]':/Users/x/Documents/client-iphone/Classes/MainViewController.m:273: warning: 'MainViewController' may not respond to '-showEditPageWithEdit:'/Users/x/Documents/client-iphone/Classes/MainViewController.m:273: warning: (Messages without a matching method signature/Users/x/Documents/client-iphone/Classes/MainViewController.m:273: warning: will be assumed to return 'id' and accept/Users/x/Documents/client-iphone/Classes/MainViewController.m:273: warning: '...' as arguments.)/Users/x/Documents/client-iphone/Classes/MainViewController.m:251: warning: unused variable 'alert'/Users/x/Documents/client-iphone/Classes/MainViewController.m: In function '-[MainViewController editViewControllerDidFinish:]':/Users/x/Documents/client-iphone/Classes/MainViewController.m:338: warning: 'DataController' may not respond to '-updatePairInList:data:ip:'9(22@51"Format not a string literal and no format arguments332068255#114#127#0(6@61"/Users/x/Documents/client-iphone/Classes/MainViewController.m332066973#58#0#58#0#51"format not a string literal and no format arguments0(22@180"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)332068255#374#257#0(6@61"/Users/x/Documents/client-iphone/Classes/MainViewController.m332066973#148#0#148#0#33"'*' is deprecated (declared at *)0(22@180"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)332068255#631#257#0(6@61"/Users/x/Documents/client-iphone/Classes/MainViewController.m332066973#150#0#150#0#33"'*' is deprecated (declared at *)0(22@180"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)332068255#888#257#0(6@61"/Users/x/Documents/client-iphone/Classes/MainViewController.m332066973#159#0#159#0#33"'*' is deprecated (declared at *)0(22@180"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)332068255#1145#257#0(6@61"/Users/x/Documents/client-iphone/Classes/MainViewController.m332066973#164#0#164#0#33"'*' is deprecated (declared at *)0(22@64"'MainViewController' may not respond to '-showEditPageWithEdit:'332068255#1537#141#0(6@61"/Users/x/Documents/client-iphone/Classes/MainViewController.m332066973#273#0#273#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)332068255#1678#122#0(6@61"/Users/x/Documents/client-iphone/Classes/MainViewController.m332066973#273#0#273#0#0"0(22@23"Unused variable 'alert'332068255#2015#100#0(6@61"/Users/x/Documents/client-iphone/Classes/MainViewController.m332066973#251#0#251#0#19"unused variable '*'0(22@64"'DataController' may not respond to '-updatePairInList:data:ip:'332068255#2244#141#0(6@61"/Users/x/Documents/client-iphone/Classes/MainViewController.m332066973#338#0#338#0#26"'*' may not respond to '*'0(0#0#61"/Users/x/Documents/client-iphone/Classes/MainViewController.m8605869600#1697"    cd /Users/x/Documents/client-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-generated-files.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-own-target-headers.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-all-target-headers.hmap -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-project-headers.hmap -F/Users/x/Documents/client-iphone/build/Debug-iphoneos -F/Users/x/Documents/client-iphone/../../../Library/Frameworks -I/Users/x/Documents/client-iphone/build/Debug-iphoneos/include -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources/armv6 -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources -include /var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-ejnvbshgdrbhcebptcjeilhjcftp/try2_Prefix.pch -c /Users/x/Documents/client-iphone/Classes/MainViewController.m -o /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/MainViewController.o0#
+
+CCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/MyNetwork.o /Users/x/Documents/client-iphone/Classes/MyNetwork.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332068256.093915
+e332068256.375015
+r1
+xCompileC
+xbuild/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/MyNetwork.o
+x/Users/x/Documents/client-iphone/Classes/MyNetwork.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m: In function '-[MyNetwork removeNBytes:fifo:]':
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:117: warning: control reaches end of non-void function
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m: In function '-[MyNetwork ProcessInputFIFO]':
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:267: warning: unused variable 'num'
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m: In function '-[MyNetwork ProcessOutputFIFO]':
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:305: warning: 'NSStream' may not respond to '-write:maxLength:'
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:305: warning: (Messages without a matching method signature
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:305: warning: will be assumed to return 'id' and accept
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:305: warning: '...' as arguments.)
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:305: warning: assignment makes integer from pointer without a cast
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:283: warning: unused variable 'i'
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m: In function '-[MyNetwork stream:handleEvent:]':
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:352: warning: 'NSStream' may not respond to '-hasBytesAvailable'
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:354: warning: 'NSStream' may not respond to '-read:maxLength:'
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:354: warning: assignment makes integer from pointer without a cast
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m: At top level:
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:630: warning: incomplete implementation of class 'MyNetwork'
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:630: warning: method definition for '-sendCommand:' not found
+lSLF07#2@60"Compile /Users/x/Documents/client-iphone/Classes/MyNetwork.m332068256#332068256#0(1884"/Users/x/Documents/client-iphone/Classes/MyNetwork.m: In function '-[MyNetwork removeNBytes:fifo:]':/Users/x/Documents/client-iphone/Classes/MyNetwork.m:117: warning: control reaches end of non-void function/Users/x/Documents/client-iphone/Classes/MyNetwork.m: In function '-[MyNetwork ProcessInputFIFO]':/Users/x/Documents/client-iphone/Classes/MyNetwork.m:267: warning: unused variable 'num'/Users/x/Documents/client-iphone/Classes/MyNetwork.m: In function '-[MyNetwork ProcessOutputFIFO]':/Users/x/Documents/client-iphone/Classes/MyNetwork.m:305: warning: 'NSStream' may not respond to '-write:maxLength:'/Users/x/Documents/client-iphone/Classes/MyNetwork.m:305: warning: (Messages without a matching method signature/Users/x/Documents/client-iphone/Classes/MyNetwork.m:305: warning: will be assumed to return 'id' and accept/Users/x/Documents/client-iphone/Classes/MyNetwork.m:305: warning: '...' as arguments.)/Users/x/Documents/client-iphone/Classes/MyNetwork.m:305: warning: assignment makes integer from pointer without a cast/Users/x/Documents/client-iphone/Classes/MyNetwork.m:283: warning: unused variable 'i'/Users/x/Documents/client-iphone/Classes/MyNetwork.m: In function '-[MyNetwork stream:handleEvent:]':/Users/x/Documents/client-iphone/Classes/MyNetwork.m:352: warning: 'NSStream' may not respond to '-hasBytesAvailable'/Users/x/Documents/client-iphone/Classes/MyNetwork.m:354: warning: 'NSStream' may not respond to '-read:maxLength:'/Users/x/Documents/client-iphone/Classes/MyNetwork.m:354: warning: assignment makes integer from pointer without a cast/Users/x/Documents/client-iphone/Classes/MyNetwork.m: At top level:/Users/x/Documents/client-iphone/Classes/MyNetwork.m:630: warning: incomplete implementation of class 'MyNetwork'/Users/x/Documents/client-iphone/Classes/MyNetwork.m:630: warning: method definition for '-sendCommand:' not found12(22@40"Control reaches end of non-void function332068256#101#108#0(6@52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m332066973#117#0#117#0#40"control reaches end of non-void function0(22@21"Unused variable 'num'332068256#308#89#0(6@52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m332066973#267#0#267#0#19"unused variable '*'0(22@49"'NSStream' may not respond to '-write:maxLength:'332068256#497#117#0(6@52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m332066973#305#0#305#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)332068256#614#113#0(6@52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m332066973#305#0#305#0#0"0(22@52"Assignment makes integer from pointer without a cast332068256#924#120#0(6@52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m332066973#305#0#305#0#0"0(22@19"Unused variable 'i'332068256#1044#87#0(6@52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m332066973#283#0#283#0#19"unused variable '*'0(22@50"'NSStream' may not respond to '-hasBytesAvailable'332068256#1233#118#0(6@52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m332066973#352#0#352#0#26"'*' may not respond to '*'0(22@48"'NSStream' may not respond to '-read:maxLength:'332068256#1351#116#0(6@52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m332066973#354#0#354#0#26"'*' may not respond to '*'0(22@52"Assignment makes integer from pointer without a cast332068256#1467#120#0(6@52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m332066973#354#0#354#0#0"0(23@13"At top level:332068256#1587#68#0(6@52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m332066973#0#0#0#0#0"0(22@46"Incomplete implementation of class 'MyNetwork'332068256#1655#114#0(6@52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m332066973#630#0#630#0#38"incomplete implementation of class '*'0(22@47"Method definition for '-sendCommand:' not found332068256#1769#115#0(6@52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m332066973#630#0#630#0#35"method definition for '*' not found0(0#0#52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m8606053248#1679"    cd /Users/x/Documents/client-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-generated-files.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-own-target-headers.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-all-target-headers.hmap -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-project-headers.hmap -F/Users/x/Documents/client-iphone/build/Debug-iphoneos -F/Users/x/Documents/client-iphone/../../../Library/Frameworks -I/Users/x/Documents/client-iphone/build/Debug-iphoneos/include -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources/armv6 -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources -include /var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-ejnvbshgdrbhcebptcjeilhjcftp/try2_Prefix.pch -c /Users/x/Documents/client-iphone/Classes/MyNetwork.m -o /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/MyNetwork.o0#
+
+CCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/main.o /Users/x/Documents/client-iphone/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332068255.557070
+e332068256.090917
+r1
+xCompileC
+xbuild/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/main.o
+x/Users/x/Documents/client-iphone/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/x/Documents/client-iphone/main.m332068255#332068256#0(0"0(0#0#39"/Users/x/Documents/client-iphone/main.m8606149024#1661"    cd /Users/x/Documents/client-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-generated-files.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-own-target-headers.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-all-target-headers.hmap -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-project-headers.hmap -F/Users/x/Documents/client-iphone/build/Debug-iphoneos -F/Users/x/Documents/client-iphone/../../../Library/Frameworks -I/Users/x/Documents/client-iphone/build/Debug-iphoneos/include -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources/armv6 -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources -include /var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-ejnvbshgdrbhcebptcjeilhjcftp/try2_Prefix.pch -c /Users/x/Documents/client-iphone/main.m -o /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/try2AppDelegate.o /Users/x/Documents/client-iphone/Classes/try2AppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332068255.558249
+e332068256.092362
+r1
+xCompileC
+xbuild/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/try2AppDelegate.o
+x/Users/x/Documents/client-iphone/Classes/try2AppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/x/Documents/client-iphone/Classes/try2AppDelegate.m: In function '-[try2AppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/x/Documents/client-iphone/Classes/try2AppDelegate.m:36: warning: 'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:271)
+o/Users/x/Documents/client-iphone/Classes/try2AppDelegate.m:41: warning: unused variable 'serverIP'
+lSLF07#2@66"Compile /Users/x/Documents/client-iphone/Classes/try2AppDelegate.m332068255#332068256#0(507"/Users/x/Documents/client-iphone/Classes/try2AppDelegate.m: In function '-[try2AppDelegate application:didFinishLaunchingWithOptions:]':/Users/x/Documents/client-iphone/Classes/try2AppDelegate.m:36: warning: 'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:271)/Users/x/Documents/client-iphone/Classes/try2AppDelegate.m:41: warning: unused variable 'serverIP'2(22@198"'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:271)332068255#137#271#0(6@58"/Users/x/Documents/client-iphone/Classes/try2AppDelegate.m332066973#36#0#36#0#33"'*' is deprecated (declared at *)0(22@26"Unused variable 'serverIP'332068255#408#99#0(6@58"/Users/x/Documents/client-iphone/Classes/try2AppDelegate.m332066973#41#0#41#0#19"unused variable '*'0(0#0#58"/Users/x/Documents/client-iphone/Classes/try2AppDelegate.m8606050496#1691"    cd /Users/x/Documents/client-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-generated-files.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-own-target-headers.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-all-target-headers.hmap -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-project-headers.hmap -F/Users/x/Documents/client-iphone/build/Debug-iphoneos -F/Users/x/Documents/client-iphone/../../../Library/Frameworks -I/Users/x/Documents/client-iphone/build/Debug-iphoneos/include -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources/armv6 -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources -include /var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-ejnvbshgdrbhcebptcjeilhjcftp/try2_Prefix.pch -c /Users/x/Documents/client-iphone/Classes/try2AppDelegate.m -o /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/try2AppDelegate.o0#
+
+CCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/DataController.o /Users/x/Documents/client-iphone/Classes/DataController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332068256.345261
+e332068256.467687
+r1
+xCompileC
+xbuild/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/DataController.o
+x/Users/x/Documents/client-iphone/Classes/DataController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/x/Documents/client-iphone/Classes/DataController.m332068256#332068256#0(0"0(0#0#57"/Users/x/Documents/client-iphone/Classes/DataController.m8601026528#1689"    cd /Users/x/Documents/client-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-generated-files.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-own-target-headers.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-all-target-headers.hmap -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-project-headers.hmap -F/Users/x/Documents/client-iphone/build/Debug-iphoneos -F/Users/x/Documents/client-iphone/../../../Library/Frameworks -I/Users/x/Documents/client-iphone/build/Debug-iphoneos/include -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources/armv7 -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources -include /var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-hfyayzqnbfpzsocjbwtwccpnzdgx/try2_Prefix.pch -c /Users/x/Documents/client-iphone/Classes/DataController.m -o /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/DataController.o0#
+
+CCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/EditViewController.o /Users/x/Documents/client-iphone/Classes/EditViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332068256.447738
+e332068256.569193
+r1
+xCompileC
+xbuild/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/EditViewController.o
+x/Users/x/Documents/client-iphone/Classes/EditViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/x/Documents/client-iphone/Classes/EditViewController.m332068256#332068256#0(0"0(0#0#61"/Users/x/Documents/client-iphone/Classes/EditViewController.m8606117920#1697"    cd /Users/x/Documents/client-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-generated-files.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-own-target-headers.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-all-target-headers.hmap -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-project-headers.hmap -F/Users/x/Documents/client-iphone/build/Debug-iphoneos -F/Users/x/Documents/client-iphone/../../../Library/Frameworks -I/Users/x/Documents/client-iphone/build/Debug-iphoneos/include -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources/armv7 -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources -include /var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-hfyayzqnbfpzsocjbwtwccpnzdgx/try2_Prefix.pch -c /Users/x/Documents/client-iphone/Classes/EditViewController.m -o /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/EditViewController.o0#
+
+CCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/FlipsideViewController.o /Users/x/Documents/client-iphone/Classes/FlipsideViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332068256.282120
+e332068256.528789
+r1
+xCompileC
+xbuild/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/FlipsideViewController.o
+x/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m: In function '-[FlipsideViewController viewDidLoad]':
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:42: warning: 'FlipsideViewController' may not respond to '-fullscreenDisableUIFade'
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:42: warning: (Messages without a matching method signature
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:42: warning: will be assumed to return 'id' and accept
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:42: warning: '...' as arguments.)
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m: In function '-[FlipsideViewController stopBeachballTimed:]':
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:386: warning: control reaches end of non-void function
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m: In function '-[FlipsideViewController stopBeachball]':
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:392: warning: control reaches end of non-void function
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m: In function '-[FlipsideViewController startBeachball]':
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:397: warning: control reaches end of non-void function
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m: In function '-[FlipsideViewController tick]':
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:438: warning: 'MyNetwork' may not respond to '-detectHello'
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:445: warning: 'MyNetwork' may not respond to '-sendHello'
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:511: warning: 'MyNetwork' may not respond to '-sendCommandBytes:param:param2:'
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m: At top level:
+o/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:25: warning: 'intBuffer' defined but not used
+lSLF07#2@73"Compile /Users/x/Documents/client-iphone/Classes/FlipsideViewController.m332068256#332068256#0(2053"/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m: In function '-[FlipsideViewController viewDidLoad]':/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:42: warning: 'FlipsideViewController' may not respond to '-fullscreenDisableUIFade'/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:42: warning: (Messages without a matching method signature/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:42: warning: will be assumed to return 'id' and accept/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:42: warning: '...' as arguments.)/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m: In function '-[FlipsideViewController stopBeachballTimed:]':/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:386: warning: control reaches end of non-void function/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m: In function '-[FlipsideViewController stopBeachball]':/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:392: warning: control reaches end of non-void function/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m: In function '-[FlipsideViewController startBeachball]':/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:397: warning: control reaches end of non-void function/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m: In function '-[FlipsideViewController tick]':/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:438: warning: 'MyNetwork' may not respond to '-detectHello'/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:445: warning: 'MyNetwork' may not respond to '-sendHello'/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:511: warning: 'MyNetwork' may not respond to '-sendCommandBytes:param:param2:'/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m: At top level:/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m:25: warning: 'intBuffer' defined but not used10(22@70"'FlipsideViewController' may not respond to '-fullscreenDisableUIFade'332068256#120#150#0(6@65"/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m332066973#42#0#42#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)332068256#270#125#0(6@65"/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m332066973#42#0#42#0#0"0(22@40"Control reaches end of non-void function332068256#744#121#0(6@65"/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m332066973#386#0#386#0#40"control reaches end of non-void function0(22@40"Control reaches end of non-void function332068256#987#121#0(6@65"/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m332066973#392#0#392#0#40"control reaches end of non-void function0(22@40"Control reaches end of non-void function332068256#1231#121#0(6@65"/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m332066973#397#0#397#0#40"control reaches end of non-void function0(22@45"'MyNetwork' may not respond to '-detectHello'332068256#1465#126#0(6@65"/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m332066973#438#0#438#0#26"'*' may not respond to '*'0(22@43"'MyNetwork' may not respond to '-sendHello'332068256#1591#124#0(6@65"/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m332066973#445#0#445#0#26"'*' may not respond to '*'0(22@64"'MyNetwork' may not respond to '-sendCommandBytes:param:param2:'332068256#1715#145#0(6@65"/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m332066973#511#0#511#0#26"'*' may not respond to '*'0(23@13"At top level:332068256#1860#81#0(6@65"/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m332066973#0#0#0#0#0"0(22@32"'intBuffer' defined but not used332068256#1941#112#0(6@65"/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m332066973#25#0#25#0#24"'*' defined but not used0(0#0#65"/Users/x/Documents/client-iphone/Classes/FlipsideViewController.m8602331264#1705"    cd /Users/x/Documents/client-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-generated-files.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-own-target-headers.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-all-target-headers.hmap -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-project-headers.hmap -F/Users/x/Documents/client-iphone/build/Debug-iphoneos -F/Users/x/Documents/client-iphone/../../../Library/Frameworks -I/Users/x/Documents/client-iphone/build/Debug-iphoneos/include -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources/armv7 -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources -include /var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-hfyayzqnbfpzsocjbwtwccpnzdgx/try2_Prefix.pch -c /Users/x/Documents/client-iphone/Classes/FlipsideViewController.m -o /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/FlipsideViewController.o0#
+
+CCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/HelpViewController.o /Users/x/Documents/client-iphone/Classes/HelpViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332068256.482794
+e332068256.584442
+r1
+xCompileC
+xbuild/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/HelpViewController.o
+x/Users/x/Documents/client-iphone/Classes/HelpViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/x/Documents/client-iphone/Classes/HelpViewController.m332068256#332068256#0(0"0(0#0#61"/Users/x/Documents/client-iphone/Classes/HelpViewController.m8604563936#1697"    cd /Users/x/Documents/client-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-generated-files.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-own-target-headers.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-all-target-headers.hmap -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-project-headers.hmap -F/Users/x/Documents/client-iphone/build/Debug-iphoneos -F/Users/x/Documents/client-iphone/../../../Library/Frameworks -I/Users/x/Documents/client-iphone/build/Debug-iphoneos/include -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources/armv7 -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources -include /var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-hfyayzqnbfpzsocjbwtwccpnzdgx/try2_Prefix.pch -c /Users/x/Documents/client-iphone/Classes/HelpViewController.m -o /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/HelpViewController.o0#
+
+CCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/MainViewController.o /Users/x/Documents/client-iphone/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332068256.250141
+e332068256.482651
+r1
+xCompileC
+xbuild/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/MainViewController.o
+x/Users/x/Documents/client-iphone/Classes/MainViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m: In function '-[MainViewController showFlipside:]':
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m:58: warning: format not a string literal and no format arguments
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m: In function '-[MainViewController tableView:cellForRowAtIndexPath:]':
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m:148: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m:150: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m:159: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m:164: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m: In function '-[MainViewController tableView:didSelectRowAtIndexPath:]':
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m:273: warning: 'MainViewController' may not respond to '-showEditPageWithEdit:'
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m:273: warning: (Messages without a matching method signature
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m:273: warning: will be assumed to return 'id' and accept
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m:273: warning: '...' as arguments.)
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m:251: warning: unused variable 'alert'
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m: In function '-[MainViewController editViewControllerDidFinish:]':
+o/Users/x/Documents/client-iphone/Classes/MainViewController.m:338: warning: 'DataController' may not respond to '-updatePairInList:data:ip:'
+lSLF07#2@69"Compile /Users/x/Documents/client-iphone/Classes/MainViewController.m332068256#332068256#0(2385"/Users/x/Documents/client-iphone/Classes/MainViewController.m: In function '-[MainViewController showFlipside:]':/Users/x/Documents/client-iphone/Classes/MainViewController.m:58: warning: format not a string literal and no format arguments/Users/x/Documents/client-iphone/Classes/MainViewController.m: In function '-[MainViewController tableView:cellForRowAtIndexPath:]':/Users/x/Documents/client-iphone/Classes/MainViewController.m:148: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)/Users/x/Documents/client-iphone/Classes/MainViewController.m:150: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)/Users/x/Documents/client-iphone/Classes/MainViewController.m:159: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)/Users/x/Documents/client-iphone/Classes/MainViewController.m:164: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)/Users/x/Documents/client-iphone/Classes/MainViewController.m: In function '-[MainViewController tableView:didSelectRowAtIndexPath:]':/Users/x/Documents/client-iphone/Classes/MainViewController.m:273: warning: 'MainViewController' may not respond to '-showEditPageWithEdit:'/Users/x/Documents/client-iphone/Classes/MainViewController.m:273: warning: (Messages without a matching method signature/Users/x/Documents/client-iphone/Classes/MainViewController.m:273: warning: will be assumed to return 'id' and accept/Users/x/Documents/client-iphone/Classes/MainViewController.m:273: warning: '...' as arguments.)/Users/x/Documents/client-iphone/Classes/MainViewController.m:251: warning: unused variable 'alert'/Users/x/Documents/client-iphone/Classes/MainViewController.m: In function '-[MainViewController editViewControllerDidFinish:]':/Users/x/Documents/client-iphone/Classes/MainViewController.m:338: warning: 'DataController' may not respond to '-updatePairInList:data:ip:'9(22@51"Format not a string literal and no format arguments332068256#114#127#0(6@61"/Users/x/Documents/client-iphone/Classes/MainViewController.m332066973#58#0#58#0#51"format not a string literal and no format arguments0(22@180"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)332068256#374#257#0(6@61"/Users/x/Documents/client-iphone/Classes/MainViewController.m332066973#148#0#148#0#33"'*' is deprecated (declared at *)0(22@180"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)332068256#631#257#0(6@61"/Users/x/Documents/client-iphone/Classes/MainViewController.m332066973#150#0#150#0#33"'*' is deprecated (declared at *)0(22@180"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)332068256#888#257#0(6@61"/Users/x/Documents/client-iphone/Classes/MainViewController.m332066973#159#0#159#0#33"'*' is deprecated (declared at *)0(22@180"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)332068256#1145#257#0(6@61"/Users/x/Documents/client-iphone/Classes/MainViewController.m332066973#164#0#164#0#33"'*' is deprecated (declared at *)0(22@64"'MainViewController' may not respond to '-showEditPageWithEdit:'332068256#1537#141#0(6@61"/Users/x/Documents/client-iphone/Classes/MainViewController.m332066973#273#0#273#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)332068256#1678#122#0(6@61"/Users/x/Documents/client-iphone/Classes/MainViewController.m332066973#273#0#273#0#0"0(22@23"Unused variable 'alert'332068256#2015#100#0(6@61"/Users/x/Documents/client-iphone/Classes/MainViewController.m332066973#251#0#251#0#19"unused variable '*'0(22@64"'DataController' may not respond to '-updatePairInList:data:ip:'332068256#2244#141#0(6@61"/Users/x/Documents/client-iphone/Classes/MainViewController.m332066973#338#0#338#0#26"'*' may not respond to '*'0(0#0#61"/Users/x/Documents/client-iphone/Classes/MainViewController.m8603762784#1697"    cd /Users/x/Documents/client-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-generated-files.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-own-target-headers.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-all-target-headers.hmap -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-project-headers.hmap -F/Users/x/Documents/client-iphone/build/Debug-iphoneos -F/Users/x/Documents/client-iphone/../../../Library/Frameworks -I/Users/x/Documents/client-iphone/build/Debug-iphoneos/include -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources/armv7 -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources -include /var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-hfyayzqnbfpzsocjbwtwccpnzdgx/try2_Prefix.pch -c /Users/x/Documents/client-iphone/Classes/MainViewController.m -o /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/MainViewController.o0#
+
+CCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/MyNetwork.o /Users/x/Documents/client-iphone/Classes/MyNetwork.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332068256.467819
+e332068256.629355
+r1
+xCompileC
+xbuild/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/MyNetwork.o
+x/Users/x/Documents/client-iphone/Classes/MyNetwork.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m: In function '-[MyNetwork removeNBytes:fifo:]':
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:117: warning: control reaches end of non-void function
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m: In function '-[MyNetwork ProcessInputFIFO]':
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:267: warning: unused variable 'num'
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m: In function '-[MyNetwork ProcessOutputFIFO]':
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:305: warning: 'NSStream' may not respond to '-write:maxLength:'
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:305: warning: (Messages without a matching method signature
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:305: warning: will be assumed to return 'id' and accept
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:305: warning: '...' as arguments.)
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:305: warning: assignment makes integer from pointer without a cast
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:283: warning: unused variable 'i'
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m: In function '-[MyNetwork stream:handleEvent:]':
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:352: warning: 'NSStream' may not respond to '-hasBytesAvailable'
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:354: warning: 'NSStream' may not respond to '-read:maxLength:'
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:354: warning: assignment makes integer from pointer without a cast
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m: At top level:
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:630: warning: incomplete implementation of class 'MyNetwork'
+o/Users/x/Documents/client-iphone/Classes/MyNetwork.m:630: warning: method definition for '-sendCommand:' not found
+lSLF07#2@60"Compile /Users/x/Documents/client-iphone/Classes/MyNetwork.m332068256#332068256#0(1884"/Users/x/Documents/client-iphone/Classes/MyNetwork.m: In function '-[MyNetwork removeNBytes:fifo:]':/Users/x/Documents/client-iphone/Classes/MyNetwork.m:117: warning: control reaches end of non-void function/Users/x/Documents/client-iphone/Classes/MyNetwork.m: In function '-[MyNetwork ProcessInputFIFO]':/Users/x/Documents/client-iphone/Classes/MyNetwork.m:267: warning: unused variable 'num'/Users/x/Documents/client-iphone/Classes/MyNetwork.m: In function '-[MyNetwork ProcessOutputFIFO]':/Users/x/Documents/client-iphone/Classes/MyNetwork.m:305: warning: 'NSStream' may not respond to '-write:maxLength:'/Users/x/Documents/client-iphone/Classes/MyNetwork.m:305: warning: (Messages without a matching method signature/Users/x/Documents/client-iphone/Classes/MyNetwork.m:305: warning: will be assumed to return 'id' and accept/Users/x/Documents/client-iphone/Classes/MyNetwork.m:305: warning: '...' as arguments.)/Users/x/Documents/client-iphone/Classes/MyNetwork.m:305: warning: assignment makes integer from pointer without a cast/Users/x/Documents/client-iphone/Classes/MyNetwork.m:283: warning: unused variable 'i'/Users/x/Documents/client-iphone/Classes/MyNetwork.m: In function '-[MyNetwork stream:handleEvent:]':/Users/x/Documents/client-iphone/Classes/MyNetwork.m:352: warning: 'NSStream' may not respond to '-hasBytesAvailable'/Users/x/Documents/client-iphone/Classes/MyNetwork.m:354: warning: 'NSStream' may not respond to '-read:maxLength:'/Users/x/Documents/client-iphone/Classes/MyNetwork.m:354: warning: assignment makes integer from pointer without a cast/Users/x/Documents/client-iphone/Classes/MyNetwork.m: At top level:/Users/x/Documents/client-iphone/Classes/MyNetwork.m:630: warning: incomplete implementation of class 'MyNetwork'/Users/x/Documents/client-iphone/Classes/MyNetwork.m:630: warning: method definition for '-sendCommand:' not found12(22@40"Control reaches end of non-void function332068256#101#108#0(6@52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m332066973#117#0#117#0#40"control reaches end of non-void function0(22@21"Unused variable 'num'332068256#308#89#0(6@52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m332066973#267#0#267#0#19"unused variable '*'0(22@49"'NSStream' may not respond to '-write:maxLength:'332068256#497#117#0(6@52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m332066973#305#0#305#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)332068256#614#113#0(6@52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m332066973#305#0#305#0#0"0(22@52"Assignment makes integer from pointer without a cast332068256#924#120#0(6@52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m332066973#305#0#305#0#0"0(22@19"Unused variable 'i'332068256#1044#87#0(6@52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m332066973#283#0#283#0#19"unused variable '*'0(22@50"'NSStream' may not respond to '-hasBytesAvailable'332068256#1233#118#0(6@52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m332066973#352#0#352#0#26"'*' may not respond to '*'0(22@48"'NSStream' may not respond to '-read:maxLength:'332068256#1351#116#0(6@52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m332066973#354#0#354#0#26"'*' may not respond to '*'0(22@52"Assignment makes integer from pointer without a cast332068256#1467#120#0(6@52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m332066973#354#0#354#0#0"0(23@13"At top level:332068256#1587#68#0(6@52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m332066973#0#0#0#0#0"0(22@46"Incomplete implementation of class 'MyNetwork'332068256#1655#114#0(6@52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m332066973#630#0#630#0#38"incomplete implementation of class '*'0(22@47"Method definition for '-sendCommand:' not found332068256#1769#115#0(6@52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m332066973#630#0#630#0#35"method definition for '*' not found0(0#0#52"/Users/x/Documents/client-iphone/Classes/MyNetwork.m8605803264#1679"    cd /Users/x/Documents/client-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-generated-files.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-own-target-headers.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-all-target-headers.hmap -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-project-headers.hmap -F/Users/x/Documents/client-iphone/build/Debug-iphoneos -F/Users/x/Documents/client-iphone/../../../Library/Frameworks -I/Users/x/Documents/client-iphone/build/Debug-iphoneos/include -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources/armv7 -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources -include /var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-hfyayzqnbfpzsocjbwtwccpnzdgx/try2_Prefix.pch -c /Users/x/Documents/client-iphone/Classes/MyNetwork.m -o /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/MyNetwork.o0#
+
+CCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/main.o /Users/x/Documents/client-iphone/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332068256.204607
+e332068256.281975
+r1
+xCompileC
+xbuild/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/main.o
+x/Users/x/Documents/client-iphone/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/x/Documents/client-iphone/main.m332068256#332068256#0(0"0(0#0#39"/Users/x/Documents/client-iphone/main.m8604513536#1661"    cd /Users/x/Documents/client-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-generated-files.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-own-target-headers.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-all-target-headers.hmap -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-project-headers.hmap -F/Users/x/Documents/client-iphone/build/Debug-iphoneos -F/Users/x/Documents/client-iphone/../../../Library/Frameworks -I/Users/x/Documents/client-iphone/build/Debug-iphoneos/include -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources/armv7 -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources -include /var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-hfyayzqnbfpzsocjbwtwccpnzdgx/try2_Prefix.pch -c /Users/x/Documents/client-iphone/main.m -o /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/main.o0#
+
+CCompileC build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/try2AppDelegate.o /Users/x/Documents/client-iphone/Classes/try2AppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332068256.219517
+e332068256.345138
+r1
+xCompileC
+xbuild/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/try2AppDelegate.o
+x/Users/x/Documents/client-iphone/Classes/try2AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/x/Documents/client-iphone/Classes/try2AppDelegate.m: In function '-[try2AppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/x/Documents/client-iphone/Classes/try2AppDelegate.m:36: warning: 'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:271)
+o/Users/x/Documents/client-iphone/Classes/try2AppDelegate.m:41: warning: unused variable 'serverIP'
+lSLF07#2@66"Compile /Users/x/Documents/client-iphone/Classes/try2AppDelegate.m332068256#332068256#0(507"/Users/x/Documents/client-iphone/Classes/try2AppDelegate.m: In function '-[try2AppDelegate application:didFinishLaunchingWithOptions:]':/Users/x/Documents/client-iphone/Classes/try2AppDelegate.m:36: warning: 'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:271)/Users/x/Documents/client-iphone/Classes/try2AppDelegate.m:41: warning: unused variable 'serverIP'2(22@198"'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:271)332068256#137#271#0(6@58"/Users/x/Documents/client-iphone/Classes/try2AppDelegate.m332066973#36#0#36#0#33"'*' is deprecated (declared at *)0(22@26"Unused variable 'serverIP'332068256#408#99#0(6@58"/Users/x/Documents/client-iphone/Classes/try2AppDelegate.m332066973#41#0#41#0#19"unused variable '*'0(0#0#58"/Users/x/Documents/client-iphone/Classes/try2AppDelegate.m8604165760#1691"    cd /Users/x/Documents/client-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-generated-files.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-own-target-headers.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-all-target-headers.hmap -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-project-headers.hmap -F/Users/x/Documents/client-iphone/build/Debug-iphoneos -F/Users/x/Documents/client-iphone/../../../Library/Frameworks -I/Users/x/Documents/client-iphone/build/Debug-iphoneos/include -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources/armv7 -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources -include /var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-hfyayzqnbfpzsocjbwtwccpnzdgx/try2_Prefix.pch -c /Users/x/Documents/client-iphone/Classes/try2AppDelegate.m -o /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/try2AppDelegate.o0#
+
+CCompileXIB /Users/x/Documents/client-iphone/EditView.xib
+s332068252.067168
+e332068252.963131
+r1
+xCompileXIB
+x/Users/x/Documents/client-iphone/EditView.xib
+lSLF07#2@23"CompileXIB EditView.xib332068252#332068252#0(0"0(0#0#45"/Users/x/Documents/client-iphone/EditView.xib8606561696#517"    cd /Users/x/Documents/client-iphone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/EditView.nib /Users/x/Documents/client-iphone/EditView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/x/Documents/client-iphone/FlipsideView.xib
+s332068251.782861
+e332068253.000002
+r1
+xCompileXIB
+x/Users/x/Documents/client-iphone/FlipsideView.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/x/Documents/client-iphone/FlipsideView.xib:99: warning: This label has its minimum font size set to a size that is greater than its current font size.
+o/Users/x/Documents/client-iphone/FlipsideView.xib:127: warning: This label has its minimum font size set to a size that is greater than its current font size.
+o/Users/x/Documents/client-iphone/FlipsideView.xib:100: warning: This label has its minimum font size set to a size that is greater than its current font size.
+o/Users/x/Documents/client-iphone/FlipsideView.xib:85: warning: This label has its minimum font size set to a size that is greater than its current font size.
+o/Users/x/Documents/client-iphone/FlipsideView.xib:133: warning: This label has its minimum font size set to a size that is greater than its current font size.
+lSLF07#2@27"CompileXIB FlipsideView.xib332068251#332068253#0(834"/* com.apple.ibtool.document.warnings *//Users/x/Documents/client-iphone/FlipsideView.xib:99: warning: This label has its minimum font size set to a size that is greater than its current font size./Users/x/Documents/client-iphone/FlipsideView.xib:127: warning: This label has its minimum font size set to a size that is greater than its current font size./Users/x/Documents/client-iphone/FlipsideView.xib:100: warning: This label has its minimum font size set to a size that is greater than its current font size./Users/x/Documents/client-iphone/FlipsideView.xib:85: warning: This label has its minimum font size set to a size that is greater than its current font size./Users/x/Documents/client-iphone/FlipsideView.xib:133: warning: This label has its minimum font size set to a size that is greater than its current font size.5(22@94"This label has its minimum font size set to a size that is greater than its current font size.332068252#18446744073709551615#0#0(6@49"/Users/x/Documents/client-iphone/FlipsideView.xib332066976#99#0#99#0#0"0(22@94"This label has its minimum font size set to a size that is greater than its current font size.332068252#18446744073709551615#0#0(6@49"/Users/x/Documents/client-iphone/FlipsideView.xib332066976#127#0#127#0#0"0(22@94"This label has its minimum font size set to a size that is greater than its current font size.332068252#18446744073709551615#0#0(6@49"/Users/x/Documents/client-iphone/FlipsideView.xib332066976#100#0#100#0#0"0(22@94"This label has its minimum font size set to a size that is greater than its current font size.332068252#18446744073709551615#0#0(6@49"/Users/x/Documents/client-iphone/FlipsideView.xib332066976#85#0#85#0#0"0(22@94"This label has its minimum font size set to a size that is greater than its current font size.332068252#18446744073709551615#0#0(6@49"/Users/x/Documents/client-iphone/FlipsideView.xib332066976#133#0#133#0#0"0(0#0#49"/Users/x/Documents/client-iphone/FlipsideView.xib8602157536#525"    cd /Users/x/Documents/client-iphone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/FlipsideView.nib /Users/x/Documents/client-iphone/FlipsideView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/x/Documents/client-iphone/HelpView.xib
+s332068253.234247
+e332068253.874494
+r1
+xCompileXIB
+x/Users/x/Documents/client-iphone/HelpView.xib
+lSLF07#2@23"CompileXIB HelpView.xib332068253#332068253#0(0"0(0#0#45"/Users/x/Documents/client-iphone/HelpView.xib8604614080#517"    cd /Users/x/Documents/client-iphone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/HelpView.nib /Users/x/Documents/client-iphone/HelpView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/x/Documents/client-iphone/MainView.xib
+s332068251.786111
+e332068252.944106
+r1
+xCompileXIB
+x/Users/x/Documents/client-iphone/MainView.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/x/Documents/client-iphone/MainView.xib:36: warning: The 'Touch Up Inside' event of 'Light Info Button' is connected to the 'showInfo:' selector of 'File's Owner', but 'showInfo:' is no longer defined on 'MainViewController'.
+lSLF07#2@23"CompileXIB MainView.xib332068251#332068252#0(273"/* com.apple.ibtool.document.warnings *//Users/x/Documents/client-iphone/MainView.xib:36: warning: The 'Touch Up Inside' event of 'Light Info Button' is connected to the 'showInfo:' selector of 'File's Owner', but 'showInfo:' is no longer defined on 'MainViewController'.1(22@172"The 'Touch Up Inside' event of 'Light Info Button' is connected to the 'showInfo:' selector of 'File's Owner', but 'showInfo:' is no longer defined on 'MainViewController'.332068252#18446744073709551615#0#0(6@45"/Users/x/Documents/client-iphone/MainView.xib332066976#36#0#36#0#0"0(0#0#45"/Users/x/Documents/client-iphone/MainView.xib8608911680#517"    cd /Users/x/Documents/client-iphone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/MainView.nib /Users/x/Documents/client-iphone/MainView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/x/Documents/client-iphone/MainWindow.xib
+s332068251.802989
+e332068252.525370
+r1
+xCompileXIB
+x/Users/x/Documents/client-iphone/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib332068251#332068252#0(0"0(0#0#47"/Users/x/Documents/client-iphone/MainWindow.xib8608169664#521"    cd /Users/x/Documents/client-iphone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/MainWindow.nib /Users/x/Documents/client-iphone/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCopyPNGFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/Default.png Images/Default.png
+s332068251.833588
+e332068252.067024
+r1
+xCopyPNGFile
+x/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/Default.png
+xImages/Default.png
+lSLF07#2@72"CopyPNGFile build/Debug-iphoneos/try2.app/Default.png Images/Default.png332068251#332068252#0(0"0(0#0#51"/Users/x/Documents/client-iphone/Images/Default.png8606320896#548"    cd /Users/x/Documents/client-iphone    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/x/Documents/client-iphone/Images/Default.png /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/Default.png0#
+
+CCopyPNGFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/FasfForwardHoverState@2x.png Images/FasfForwardHoverState@2x.png
+s332068253.000122
+e332068253.105760
+r1
+xCopyPNGFile
+x/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/FasfForwardHoverState@2x.png
+xImages/FasfForwardHoverState@2x.png
+lSLF07#2@106"CopyPNGFile build/Debug-iphoneos/try2.app/FasfForwardHoverState@2x.png Images/FasfForwardHoverState@2x.png332068253#332068253#0(0"0(0#0#68"/Users/x/Documents/client-iphone/Images/FasfForwardHoverState@2x.png8603981504#582"    cd /Users/x/Documents/client-iphone    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/x/Documents/client-iphone/Images/FasfForwardHoverState@2x.png /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/FasfForwardHoverState@2x.png0#
+
+CCopyPNGFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/FasfForwardRegularState@2x.png Images/FasfForwardRegularState@2x.png
+s332068253.032133
+e332068253.095237
+r1
+xCopyPNGFile
+x/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/FasfForwardRegularState@2x.png
+xImages/FasfForwardRegularState@2x.png
+lSLF07#2@110"CopyPNGFile build/Debug-iphoneos/try2.app/FasfForwardRegularState@2x.png Images/FasfForwardRegularState@2x.png332068253#332068253#0(0"0(0#0#70"/Users/x/Documents/client-iphone/Images/FasfForwardRegularState@2x.png8602008352#586"    cd /Users/x/Documents/client-iphone    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/x/Documents/client-iphone/Images/FasfForwardRegularState@2x.png /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/FasfForwardRegularState@2x.png0#
+
+CCopyPNGFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/PauseButtonHoverState@2x.png Images/PauseButtonHoverState@2x.png
+s332068253.095350
+e332068253.197554
+r1
+xCopyPNGFile
+x/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/PauseButtonHoverState@2x.png
+xImages/PauseButtonHoverState@2x.png
+lSLF07#2@106"CopyPNGFile build/Debug-iphoneos/try2.app/PauseButtonHoverState@2x.png Images/PauseButtonHoverState@2x.png332068253#332068253#0(0"0(0#0#68"/Users/x/Documents/client-iphone/Images/PauseButtonHoverState@2x.png8606506368#582"    cd /Users/x/Documents/client-iphone    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/x/Documents/client-iphone/Images/PauseButtonHoverState@2x.png /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/PauseButtonHoverState@2x.png0#
+
+CCopyPNGFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/PauseButtonRegularState@2x.png Images/PauseButtonRegularState@2x.png
+s332068253.105882
+e332068253.174281
+r1
+xCopyPNGFile
+x/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/PauseButtonRegularState@2x.png
+xImages/PauseButtonRegularState@2x.png
+lSLF07#2@110"CopyPNGFile build/Debug-iphoneos/try2.app/PauseButtonRegularState@2x.png Images/PauseButtonRegularState@2x.png332068253#332068253#0(0"0(0#0#70"/Users/x/Documents/client-iphone/Images/PauseButtonRegularState@2x.png8606323616#586"    cd /Users/x/Documents/client-iphone    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/x/Documents/client-iphone/Images/PauseButtonRegularState@2x.png /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/PauseButtonRegularState@2x.png0#
+
+CCopyPNGFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/PlayButtonHoverState@2x.png Images/PlayButtonHoverState@2x.png
+s332068252.944305
+e332068253.115724
+r1
+xCopyPNGFile
+x/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/PlayButtonHoverState@2x.png
+xImages/PlayButtonHoverState@2x.png
+lSLF07#2@104"CopyPNGFile build/Debug-iphoneos/try2.app/PlayButtonHoverState@2x.png Images/PlayButtonHoverState@2x.png332068252#332068253#0(0"0(0#0#67"/Users/x/Documents/client-iphone/Images/PlayButtonHoverState@2x.png8604547488#580"    cd /Users/x/Documents/client-iphone    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/x/Documents/client-iphone/Images/PlayButtonHoverState@2x.png /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/PlayButtonHoverState@2x.png0#
+
+CCopyPNGFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/PlayButtonRegularState@2x.png Images/PlayButtonRegularState@2x.png
+s332068252.963264
+e332068253.032007
+r1
+xCopyPNGFile
+x/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/PlayButtonRegularState@2x.png
+xImages/PlayButtonRegularState@2x.png
+lSLF07#2@108"CopyPNGFile build/Debug-iphoneos/try2.app/PlayButtonRegularState@2x.png Images/PlayButtonRegularState@2x.png332068252#332068253#0(0"0(0#0#69"/Users/x/Documents/client-iphone/Images/PlayButtonRegularState@2x.png8602141248#584"    cd /Users/x/Documents/client-iphone    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/x/Documents/client-iphone/Images/PlayButtonRegularState@2x.png /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/PlayButtonRegularState@2x.png0#
+
+CCopyPNGFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/RewindHoverState@2x.png Images/RewindHoverState@2x.png
+s332068253.115843
+e332068253.256968
+r1
+xCopyPNGFile
+x/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/RewindHoverState@2x.png
+xImages/RewindHoverState@2x.png
+lSLF07#2@96"CopyPNGFile build/Debug-iphoneos/try2.app/RewindHoverState@2x.png Images/RewindHoverState@2x.png332068253#332068253#0(0"0(0#0#63"/Users/x/Documents/client-iphone/Images/RewindHoverState@2x.png8606176800#572"    cd /Users/x/Documents/client-iphone    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/x/Documents/client-iphone/Images/RewindHoverState@2x.png /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/RewindHoverState@2x.png0#
+
+CCopyPNGFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/RewindRegularState@2x.png Images/RewindRegularState@2x.png
+s332068253.174405
+e332068253.234124
+r1
+xCopyPNGFile
+x/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/RewindRegularState@2x.png
+xImages/RewindRegularState@2x.png
+lSLF07#2@100"CopyPNGFile build/Debug-iphoneos/try2.app/RewindRegularState@2x.png Images/RewindRegularState@2x.png332068253#332068253#0(0"0(0#0#65"/Users/x/Documents/client-iphone/Images/RewindRegularState@2x.png8606004000#576"    cd /Users/x/Documents/client-iphone    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/x/Documents/client-iphone/Images/RewindRegularState@2x.png /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/RewindRegularState@2x.png0#
+
+CCopyPNGFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/griddything.png Images/griddything.png
+s332068253.197662
+e332068254.742990
+r1
+xCopyPNGFile
+x/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/griddything.png
+xImages/griddything.png
+lSLF07#2@80"CopyPNGFile build/Debug-iphoneos/try2.app/griddything.png Images/griddything.png332068253#332068254#0(0"0(0#0#55"/Users/x/Documents/client-iphone/Images/griddything.png8605797984#556"    cd /Users/x/Documents/client-iphone    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/x/Documents/client-iphone/Images/griddything.png /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/griddything.png0#
+
+CCopyPNGFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/griddything@2x.png Images/griddything@2x.png
+s332068252.526364
+e332068254.498339
+r1
+xCopyPNGFile
+x/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/griddything@2x.png
+xImages/griddything@2x.png
+lSLF07#2@86"CopyPNGFile build/Debug-iphoneos/try2.app/griddything@2x.png Images/griddything@2x.png332068252#332068254#0(0"0(0#0#58"/Users/x/Documents/client-iphone/Images/griddything@2x.png8605877024#562"    cd /Users/x/Documents/client-iphone    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/x/Documents/client-iphone/Images/griddything@2x.png /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/griddything@2x.png0#
+
+CCpResource build/Debug-iphoneos/try2.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s332068251.768836
+e332068251.780907
+r1
+xCpResource
+xbuild/Debug-iphoneos/try2.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist332068251#332068251#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8608430304#479"    cd /Users/x/Documents/client-iphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app0#
+
+CCpResource build/Debug-iphoneos/try2.app/ft3.jpg Images/ft3.jpg
+s332068252.525498
+e332068252.531726
+r1
+xCpResource
+xbuild/Debug-iphoneos/try2.app/ft3.jpg
+xImages/ft3.jpg
+lSLF07#2@19"Copy Images/ft3.jpg332068252#332068252#0(0"0(0#0#47"/Users/x/Documents/client-iphone/Images/ft3.jpg8606135808#437"    cd /Users/x/Documents/client-iphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/x/Documents/client-iphone/Images/ft3.jpg /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app0#
+
+CCreateUniversalBinary /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/try2 normal "armv6 armv7"
+s332068256.667254
+e332068256.670967
+r1
+xCreateUniversalBinary
+x/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/try2
+xnormal
+xarmv6 armv7
+lSLF07#2@77"CreateUniversalBinary build/Debug-iphoneos/try2.app/try2 normal "armv6 armv7"332068256#332068256#0(0"0(0#0#44"/Users/x/Documents/client-iphone/armv6 armv78606109632#470"    cd /Users/x/Documents/client-iphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/try2 /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/try2 -output /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/try20#
+
+CGenerateDSYMFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app.dSYM /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/try2
+s332068256.671190
+e332068256.720168
+r1
+xGenerateDSYMFile
+x/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app.dSYM
+x/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/try2
+lSLF07#2@86"GenerateDSYMFile build/Debug-iphoneos/try2.app.dSYM build/Debug-iphoneos/try2.app/try2332068256#332068256#0(0"0(0#0#67"/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/try28605929024#335"    cd /Users/x/Documents/client-iphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/try2 -o /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app.dSYM0#
+
+CLd /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/try2 normal armv6
+s332068256.375136
+e332068256.447587
+r1
+xLd
+x/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/try2
+xnormal
+xarmv6
+old: warning: directory '/Users/x/Documents/client-iphone/../../../Library/Frameworks' following -F not found
+lSLF07#2@106"Link /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/try2332068256#332068256#0(109"ld: warning: directory '/Users/x/Documents/client-iphone/../../../Library/Frameworks' following -F not found1(22@95"Directory '/Users/x/Documents/client-iphone/../../../Library/Frameworks' following -F not found332068256#0#109#0(6@0"332068256#0#0#0#0#0"0(0#0#0"8606305408#874"    cd /Users/x/Documents/client-iphone    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/x/Documents/client-iphone/build/Debug-iphoneos -F/Users/x/Documents/client-iphone/build/Debug-iphoneos -F/Users/x/Documents/client-iphone/../../../Library/Frameworks -filelist /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/try2.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv6/try20#
+
+CLd /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/try2 normal armv7
+s332068256.629477
+e332068256.667129
+r1
+xLd
+x/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/try2
+xnormal
+xarmv7
+old: warning: directory '/Users/x/Documents/client-iphone/../../../Library/Frameworks' following -F not found
+lSLF07#2@106"Link /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/try2332068256#332068256#0(109"ld: warning: directory '/Users/x/Documents/client-iphone/../../../Library/Frameworks' following -F not found1(22@95"Directory '/Users/x/Documents/client-iphone/../../../Library/Frameworks' following -F not found332068256#0#109#0(6@0"332068256#0#0#0#0#0"0(0#0#0"8606442624#874"    cd /Users/x/Documents/client-iphone    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/x/Documents/client-iphone/build/Debug-iphoneos -F/Users/x/Documents/client-iphone/build/Debug-iphoneos -F/Users/x/Documents/client-iphone/../../../Library/Frameworks -filelist /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/try2.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/Objects-normal/armv7/try20#
+
+CProcessInfoPlistFile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/Info.plist try2-Info.plist
+s332068251.771547
+e332068251.782774
+r1
+xProcessInfoPlistFile
+x/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/Info.plist
+xtry2-Info.plist
+lSLF07#2@23"Process try2-Info.plist332068251#332068251#0(0"0(0#0#48"/Users/x/Documents/client-iphone/try2-Info.plist8607989824#526"    cd /Users/x/Documents/client-iphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility try2-Info.plist -genpkginfo /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/ResourceRules.plist -o /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/Info.plist0#
+
+CProcessPCH /var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-ejnvbshgdrbhcebptcjeilhjcftp/try2_Prefix.pch.gch try2_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332068254.743157
+e332068255.517105
+r1
+xProcessPCH
+x/var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-ejnvbshgdrbhcebptcjeilhjcftp/try2_Prefix.pch.gch
+xtry2_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile try2_Prefix.pch332068254#332068255#0(0"0(0#0#48"/Users/x/Documents/client-iphone/try2_Prefix.pch8603960992#1568"    cd /Users/x/Documents/client-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-generated-files.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-own-target-headers.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-all-target-headers.hmap -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-project-headers.hmap -F/Users/x/Documents/client-iphone/build/Debug-iphoneos -F/Users/x/Documents/client-iphone/../../../Library/Frameworks -I/Users/x/Documents/client-iphone/build/Debug-iphoneos/include -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources/armv6 -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources -c /Users/x/Documents/client-iphone/try2_Prefix.pch -o /var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-ejnvbshgdrbhcebptcjeilhjcftp/try2_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-hfyayzqnbfpzsocjbwtwccpnzdgx/try2_Prefix.pch.gch try2_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332068254.744385
+e332068255.556941
+r1
+xProcessPCH
+x/var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-hfyayzqnbfpzsocjbwtwccpnzdgx/try2_Prefix.pch.gch
+xtry2_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile try2_Prefix.pch332068254#332068255#0(0"0(0#0#48"/Users/x/Documents/client-iphone/try2_Prefix.pch8603772832#1568"    cd /Users/x/Documents/client-iphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-generated-files.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-own-target-headers.hmap -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-all-target-headers.hmap -iquote /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2-project-headers.hmap -F/Users/x/Documents/client-iphone/build/Debug-iphoneos -F/Users/x/Documents/client-iphone/../../../Library/Frameworks -I/Users/x/Documents/client-iphone/build/Debug-iphoneos/include -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources/armv7 -I/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/DerivedSources -c /Users/x/Documents/client-iphone/try2_Prefix.pch -o /var/folders/L6/L6m9wKaGG9WuG5khkc46CE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/try2_Prefix-hfyayzqnbfpzsocjbwtwccpnzdgx/try2_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/x/Library/MobileDevice/Provisioning Profiles/40FDBDCF-10E6-45FF-AB7F-912ECCFF17B9.mobileprovision" /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/embedded.mobileprovision
+s332068256.720301
+e332068256.721495
+r1
+xProcessProductPackaging
+x/Users/x/Library/MobileDevice/Provisioning Profiles/40FDBDCF-10E6-45FF-AB7F-912ECCFF17B9.mobileprovision
+x/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/embedded.mobileprovision
+lSLF07#2@185"ProcessProductPackaging "/Users/x/Library/MobileDevice/Provisioning Profiles/40FDBDCF-10E6-45FF-AB7F-912ECCFF17B9.mobileprovision" build/Debug-iphoneos/try2.app/embedded.mobileprovision332068256#332068256#0(0"0(0#0#87"/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/embedded.mobileprovision8604365856#404"    cd /Users/x/Documents/client-iphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/x/Library/MobileDevice/Provisioning Profiles/40FDBDCF-10E6-45FF-AB7F-912ECCFF17B9.mobileprovision" -o /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2.xcent
+s332068256.726404
+e332068256.728243
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2.xcent
+lSLF07#2@166"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/try2.build/Debug-iphoneos/try2.build/try2.xcent332068256#332068256#0(0"0(0#0#86"/Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2.xcent8604227040#411"    cd /Users/x/Documents/client-iphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/x/Documents/client-iphone/build/try2.build/Debug-iphoneos/try2.build/try2.xcent0#
+
+CTouch /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app
+s332068256.721570
+e332068256.726283
+r1
+xTouch
+x/Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app
+lSLF07#2@68"Touch /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app332068256#332068256#0(0"0(0#0#0"8603881312#249"    cd /Users/x/Documents/client-iphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/x/Documents/client-iphone/build/Debug-iphoneos/try2.app0#
+
